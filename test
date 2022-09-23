@@ -3,8 +3,7 @@
         "author": "✯ | ƚყRaEL#1337",
         "name": "Nino Nakano",
         "version": "1.0.0",
-        "updater": "https://github.com/tyr4/test/blob/main/test",
-        "license": "0SL-3.0"
+        "updater": "https://raw.githubusercontent.com/tyr4/test/main/test",
     },
     "background": {
         "blur_radius": 0,
