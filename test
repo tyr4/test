@@ -7,9 +7,9 @@
         "license": "0SL-3.0"
     },
     "background": {
-        "blur_radius": 10,
-        "overlay_alpha": 75,
-        "url": "https:\/\/cdn.discordapp.com\/attachments/819286977827569754\/1022903285759356948\/unknown.png?size=4096"
+        "blur_radius": 0,
+        "overlay_alpha": 120,
+        "url": "https:\/\/cdn.discordapp.com\/attachments/819286977827569754\/1022903285759356948\/unknown.png"
     },
     "fonts": {},
     "simple_colors": {},
